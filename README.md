@@ -1,0 +1,2 @@
+# StrideNode
+A simple guide
